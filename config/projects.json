@@ -124,7 +124,7 @@
     "dashedName": "build-a-weather-service-api",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 15,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,

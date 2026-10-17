@@ -1,9 +1,9 @@
 {
-  "currentProject": "build-a-web-server",
+  "currentProject": "build-a-weather-service-api",
   "locale": "english",
   "lastSeed": {
     "projectDashedName": "build-a-web-server",
     "lessonNumber": 7
   },
-  "lastWatchChange": 7
+  "lastWatchChange": 15
 }
